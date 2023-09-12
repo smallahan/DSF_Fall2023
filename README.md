@@ -3,7 +3,7 @@ Learning logs from DSF program
 
 ***
 
-Please go to the [Wiki section] for the documentation. 
+Please go to the [Wiki section](https://github.com/smallahan/DSF_Fall2023/wiki) for the documentation. 
 
 
 ***
